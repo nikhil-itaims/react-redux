@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with React Redux Learning
+
+### Here you can learn complete react-redux with api call using axios and redux-toolkit.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
